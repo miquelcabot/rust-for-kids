@@ -1,6 +1,6 @@
 <!-- markdown-link-check-disable -->
 <center>
-<a target="_blank" href="slides.html"><i class="fa fa-share-square"></i> Obrir la presentació</a>
+<a target="_blank" href="slides.html"><i class="fa fa-share-square"></i> Open slides</a>
 </center>
 <!-- markdown-link-check-enable -->
 
