@@ -8,7 +8,8 @@
 ---
 
 - [Operating System](./rust-for-kids/01-operating-system/page.md)
-- [Rust](./rust-for-kids/02-rust/page.md)
+- [Binary Numbers](./rust-for-kids/02-binary-numbers/page.md)
+- [Rust](./rust-for-kids/03-rust/page.md)
 
 ---
 
