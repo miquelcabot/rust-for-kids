@@ -9,7 +9,7 @@
 
 - [Operating System](./rust-for-kids/01-operating-system/page.md)
 - [Binary Numbers](./rust-for-kids/02-binary-numbers/page.md)
-- [Rust](./rust-for-kids/03-rust/page.md)
+- [Basic Rust Concepts](./rust-for-kids/03-basic-rust-concepts/page.md)
 
 ---
 
