@@ -1,6 +1,3 @@
-# Basic Rust Concepts
-
----
 # Installing Rust
 
 ---
