@@ -16,6 +16,6 @@
 ## 📚 Recommended Books
 
 - _The Rust Programming Language_, Steve Klabnik, Carol Nichols. No Starch Press; 2nd edition (2023)
-- _Programming Rust: Fast, Safe Systems Development_, Jim Blandy, Jason Orendorff. O'Reilly Media; 2nd edition (2024)
-- _Rust for Rustaceans: Idiomatic Programming for Experienced Developers_, Jon Gjengset. No Starch Press; 1st edition (2022)
+- _Programming Rust: Fast, Safe Systems Development_, Jim Blandy, Jason Orendorff, Leonora F S Tindall. O'Reilly Media; 2nd edition (2021)
+- _Rust for Rustaceans: Idiomatic Programming for Experienced Developers_, Jon Gjengset. No Starch Press; 1st edition (2021)
 - _Rust in Action_, Tim McNamara. Manning Publications; 1st edition (2021)
