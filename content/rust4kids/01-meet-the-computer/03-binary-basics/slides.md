@@ -6,7 +6,7 @@
 
 A **bit** is the smallest piece of data a computer can store.
 
-It can only be **1** (on 💡) or **0** (off ⚫) — like a flashlight switch!
+It can only be **1** (on 💡) or **0** (off ⚫), like a flashlight switch!
 
 A **byte** is a group of **8 bits**. With 8 bits, we can count from `0` to `255` because:
 
@@ -65,7 +65,7 @@ Here are the first 16 numbers in **decimal** and **binary**
 
 Try finding your age in binary!
 
-> 🔢 Tip: With 4 bits, you can count from **0 to 15** — that’s `2⁴ = 16` combinations!
+> 🔢 Tip: With 4 bits, you can count from **0 to 15**. That’s `2⁴ = 16` combinations!
 
 ---
 
@@ -120,7 +120,7 @@ Let’s zoom out!
 
 ## ✅ Summary
 
-- Computers only understand **1s and 0s** — **binary**.
+- Computers only understand **1s and 0s**: **binary**.
 - A **bit** is one 1/0; a **byte** is 8 bits.
 - We use **ASCII** to turn text into numbers.
 - Memory is measured in units like **KB, MB, GB, TB**, etc.

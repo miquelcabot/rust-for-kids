@@ -6,9 +6,9 @@
 
 Have you ever wondered how video games, robots, or websites are built? Or how your computer understands what to do when you click a button or type a word?
 
-In this book, you'll start from the very beginning — learning how computers store files, follow instructions, and even speak in binary! Then we'll dive into **Rust**, a fun, powerful programming language that's used in everything from spaceships to video games.
+In this book, you'll start from the very beginning: learning how computers store files, follow instructions, and even speak in binary! Then we'll dive into **Rust**, a fun, powerful programming language that's used in everything from spaceships to video games.
 
-This book is designed especially for **kids, teens, parents, and curious beginners**. No experience needed — just bring your imagination and a little curiosity. 🧠✨
+This book is designed especially for **kids, teens, parents, and curious beginners**. No experience needed. Just bring your imagination and a little curiosity. 🧠✨
 
 ---
 
@@ -16,11 +16,11 @@ This book is designed especially for **kids, teens, parents, and curious beginne
 
 Rust is different from many other programming languages. Here's why we love it:
 
-- ✅ **Fast and efficient** — used in real-world systems like Firefox and Linux.
-- 🧠 **Safe by design** — it helps prevent bugs before they happen!
-- ❤️ **Friendly** — it has a great community and excellent documentation.
-- 🧰 **Modern tooling** — with tools like `cargo`, building projects is easy and fun.
-- 🌍 **Versatile** — you can build websites, games, robots, or even blockchains.
+- ✅ **Fast and efficient**: used in real-world systems like Firefox and Linux.
+- 🧠 **Safe by design**: it helps prevent bugs before they happen!
+- ❤️ **Friendly**: it has a great community and excellent documentation.
+- 🧰 **Modern tooling**: with tools like `cargo`, building projects is easy and fun.
+- 🌍 **Versatile**: you can build websites, games, robots, or even blockchains.
 
 Plus... it has a super cute mascot: **Ferris the Crab**! 🦀
 

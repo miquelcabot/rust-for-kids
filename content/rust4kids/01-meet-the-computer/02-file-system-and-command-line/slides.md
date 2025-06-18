@@ -9,7 +9,7 @@ Your computer is like a big library 📚. Inside it are:
 - **Files** 📄 → documents, pictures, music, code, and more.
 - **Folders** 📁 → containers to help organize your files.
 
-You can put files **inside** folders, and folders **inside** other folders — just like boxes inside boxes!
+You can put files **inside** folders, and folders **inside** other folders. Just like boxes inside boxes!
 
 ---
 
@@ -17,9 +17,9 @@ You can put files **inside** folders, and folders **inside** other folders — j
 
 There are three main types of operating systems (OS):
 
-- 🐧 **Linux** — free, open-source, used on many servers and by programmers.
-- 🍎 **macOS** — used on Apple computers.
-- 🪟 **Windows** — very common in schools and offices.
+- 🐧 **Linux**: free, open-source, used on many servers and by programmers.
+- 🍎 **macOS**: used on Apple computers.
+- 🪟 **Windows**: very common in schools and offices.
 
 They all **do the same basic things**, but the way you use the terminal or navigate folders might look a little different.
 
@@ -51,7 +51,7 @@ Once installed, you'll be able to use the same terminal commands we use in this 
 
 ## 🏠 The Home Directory
 
-Every user has a personal **home directory** — it’s like your bedroom in the computer’s house.
+Every user has a personal **home directory**. It’s like your bedroom in the computer’s house.
 
 - On **Linux/macOS**, it looks like:
 
@@ -86,7 +86,7 @@ Example: `/home/alex/projects/rust_for_kids/main.rs`
 
 The **terminal** (or "command line") is a tool to **talk directly to your computer**.
 
-You don’t click — you type! It's like writing spells.
+You don’t click, you type! It's like writing spells.
 
 Programmers love the terminal because it's **powerful and fast**.
 

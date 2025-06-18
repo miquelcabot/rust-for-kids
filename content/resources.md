@@ -11,7 +11,7 @@
 
 ## 📘 Featured Tutorials and Articles
 
-- [Introduction to the Rust State Machine](https://www.shawntabrizi.com/rust-state-machine/) — a practical introduction to the state machine in Rust, useful for understanding how to structure protocols or systems with phase changes.
+- [Introduction to the Rust State Machine](https://www.shawntabrizi.com/rust-state-machine/). A practical introduction to the state machine in Rust, useful for understanding how to structure protocols or systems with phase changes.
 
 ## 📚 Recommended Books
 

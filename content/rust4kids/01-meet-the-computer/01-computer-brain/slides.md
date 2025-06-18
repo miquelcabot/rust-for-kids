@@ -20,14 +20,14 @@ These are the **physical parts** you can touch.
 - 🧠 **CPU** (Central Processing Unit): The brain of the computer. It thinks really fast.
 - 🧮 **RAM** (Memory): Temporary space to remember things while working.
 - 🗃️ **Storage** (like a hard drive): Where files and programs live when you're not using them.
-- 🖱️ **Input devices**: Keyboard, mouse, microphone — things you use to *talk* to the computer.
-- 🖥️ **Output devices**: Monitor, speakers, printer — the computer’s way to talk back!
+- 🖱️ **Input devices**: Keyboard, mouse, microphone: things you use to *talk* to the computer.
+- 🖥️ **Output devices**: Monitor, speakers, printer: the computer’s way to talk back!
 
 ---
 
 ### 📜 Software
 
-Software is made of **code** — instructions written by humans.
+Software is made of **code**: instructions written by humans.
 
 It tells the hardware what to do! Like:
 
@@ -49,7 +49,7 @@ Imagine:
 3. The CPU checks the program (📜 software)
 4. The screen shows a letter (📤 output)
 
-It happens in a blink — but it’s all hardware and software working together!
+It happens in a blink, but it’s all hardware and software working together!
 
 ---
 
