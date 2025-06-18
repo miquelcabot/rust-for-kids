@@ -2,7 +2,7 @@
 
 ---
 
-## 🧠 What’s Inside a Computer?
+## 🧠 What's Inside a Computer?
 
 A computer might look like just a box with a screen and keyboard...
 But inside, it's full of tiny parts that work together to follow instructions, store data, and show you cool stuff!
@@ -21,7 +21,7 @@ These are the **physical parts** you can touch.
 - 🧮 **RAM** (Memory): Temporary space to remember things while working.
 - 🗃️ **Storage** (like a hard drive): Where files and programs live when you're not using them.
 - 🖱️ **Input devices**: Keyboard, mouse, microphone: things you use to *talk* to the computer.
-- 🖥️ **Output devices**: Monitor, speakers, printer: the computer’s way to talk back!
+- 🖥️ **Output devices**: Monitor, speakers, printer: the computer's way to talk back!
 
 ---
 
@@ -49,7 +49,7 @@ Imagine:
 3. The CPU checks the program (📜 software)
 4. The screen shows a letter (📤 output)
 
-It happens in a blink, but it’s all hardware and software working together!
+It happens in a blink, but it's all hardware and software working together!
 
 ---
 
@@ -69,4 +69,4 @@ Can you name its input, output, memory, and "brain"?
 - You give the computer commands (input) and it gives you results (output).
 - With Rust, you'll soon write your own software to control this amazing machine!
 
-Let’s explore the filesystem next!
+Let's explore the filesystem next!

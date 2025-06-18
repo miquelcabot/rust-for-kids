@@ -42,7 +42,7 @@ We use only **0** and **1** (base 2):
 
 This is what `01010101` means:
 
-Just **add up the positions where there’s a 1** to get the number!
+Just **add up the positions where there's a 1** to get the number!
 
 > `01010101` → 64 + 16 + 4 + 1 = **85**
 
@@ -65,7 +65,7 @@ Here are the first 16 numbers in **decimal** and **binary**
 
 Try finding your age in binary!
 
-> 🔢 Tip: With 4 bits, you can count from **0 to 15**. That’s `2⁴ = 16` combinations!
+> 🔢 Tip: With 4 bits, you can count from **0 to 15**. That's `2⁴ = 16` combinations!
 
 ---
 
@@ -88,7 +88,7 @@ So `"Hi"` = `01001000 01101001` in binary!
 
 ## 💾 Bytes, Kilobytes, Megabytes…
 
-Let’s zoom out!
+Let's zoom out!
 
 | Unit        | Description                   |
 |-------------|-------------------------------|
@@ -113,7 +113,7 @@ Let’s zoom out!
 
 1. Write the number `7` in binary
 2. Convert the word `OK` to ASCII + binary
-3. What’s the biggest number you can make with **8 bits**?
+3. What's the biggest number you can make with **8 bits**?
 4. Find the binary for the word `RUST`
 
 ---

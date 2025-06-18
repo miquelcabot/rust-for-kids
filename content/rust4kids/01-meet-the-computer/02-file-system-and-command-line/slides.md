@@ -51,7 +51,7 @@ Once installed, you'll be able to use the same terminal commands we use in this 
 
 ## 🏠 The Home Directory
 
-Every user has a personal **home directory**. It’s like your bedroom in the computer’s house.
+Every user has a personal **home directory**. It's like your bedroom in the computer's house.
 
 - On **Linux/macOS**, it looks like:
 
@@ -86,7 +86,7 @@ Example: `/home/alex/projects/rust_for_kids/main.rs`
 
 The **terminal** (or "command line") is a tool to **talk directly to your computer**.
 
-You don’t click, you type! It's like writing spells.
+You don't click, you type! It's like writing spells.
 
 Programmers love the terminal because it's **powerful and fast**.
 
@@ -149,4 +149,4 @@ You just:
 - ✅ created and edited a file
 - ✅ renamed the file
 - ✅ went back up a folder
-- ✅ listed what’s there!
+- ✅ listed what's there!
