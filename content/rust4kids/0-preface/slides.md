@@ -2,6 +2,10 @@
 
 ---
 
+> Dedicated to my son, Joan, and my daughter, Aina, who inspire me every day to make learning fun and exciting. 💖
+
+---
+
 ## 👋 Welcome to *Rust for Kids*
 
 Have you ever wondered how video games, robots, or websites are built? Or how your computer understands what to do when you click a button or type a word?
