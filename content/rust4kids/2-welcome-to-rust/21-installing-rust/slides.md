@@ -27,6 +27,21 @@ Then follow the instructions that appear.
 
 ---
 
+## 🌐 Alternative Options
+
+If you don't want to install anything locally, you can use:
+
+- [Google Cloud Shell](https://shell.cloud.google.com/): a free cloud-based terminal and editor.
+  ➕ Great for coding from anywhere
+  ⚠️ You'll still need to install Rust manually with `rustup`
+- [Rust Playground](http://play.rust-lang.org/): a browser-based Rust editor for quick experiments.
+  ➕ No installation needed
+  ➖ Limited to small examples and no file system access
+
+Perfect for testing or learning on the go! 🚀
+
+---
+
 ## 🧪 Step 2: Check the Installation
 
 Once it's done, check that everything works:
