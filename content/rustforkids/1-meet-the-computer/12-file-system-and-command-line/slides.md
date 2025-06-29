@@ -95,7 +95,7 @@ Programmers love the terminal because it's **powerful and fast**.
 ## 🔤 Terminal Command Cheat Sheet
 
 | Command                   | What it does                                 |
-|---------------------------|----------------------------------------------|
+| ------------------------- | -------------------------------------------- |
 | `pwd`                     | Show where you are right now                 |
 | `ls`                      | List everything in the current folder        |
 | `cd foldername`           | Enter a folder                               |
@@ -104,12 +104,13 @@ Programmers love the terminal because it's **powerful and fast**.
 | `mkdir my_folder`         | Make a new folder                            |
 | `touch hello.txt`         | Create a new empty file                      |
 | `cat hello.txt`           | Show what's inside the file                  |
-| `rm file.txt`             | Delete a file (⚠️ careful!)                  |
+| `rm file.txt`             | Delete a file (⚠️ careful!)                   |
 | `mv file.txt newname.txt` | Rename a file                                |
 | `mv file.txt folder/`     | Move a file into a folder                    |
 | `clear`                   | Clean the screen                             |
 
 > Tip: You can press the **up arrow** ↑ to repeat your last command!
+
 ---
 
 ## 🧭 Terminal Challenge!

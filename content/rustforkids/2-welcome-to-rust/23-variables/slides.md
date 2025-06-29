@@ -75,7 +75,7 @@ println!("New score: {}", score);
 ## 🧠 Common Variable Types
 
 | Type     | Example                           | Description             |
-|----------|-----------------------------------|-------------------------|
+| -------- | --------------------------------- | ----------------------- |
 | `i32`    | `let x = 5;`                      | Integer (32-bit number) |
 | `bool`   | `let done = true;`                | True or false           |
 | `String` | `let name = String::from("Zoe");` | Text (owned string)     |
