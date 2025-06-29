@@ -6,7 +6,7 @@
 
 ---
 
-## 👋 Welcome to *Rust for Kids*
+## 👋 Welcome to _Rust for Kids_
 
 Have you ever wondered how video games, robots, or websites are built? Or how your computer understands what to do when you click a button or type a word?
 

@@ -79,7 +79,7 @@ You should see:
     Finished dev [unoptimized + debuginfo]
      Running `target/debug/hello_rust`
 Hello, world!
-````
+```
 
 🎉 Congratulations! You just wrote and ran your first Rust program!
 

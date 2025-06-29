@@ -20,7 +20,7 @@ These are the **physical parts** you can touch.
 - 🧠 **CPU** (Central Processing Unit): The brain of the computer. It thinks really fast.
 - 🧮 **RAM** (Memory): Temporary space to remember things while working.
 - 🗃️ **Storage** (like a hard drive): Where files and programs live when you're not using them.
-- 🖱️ **Input devices**: Keyboard, mouse, microphone: things you use to *talk* to the computer.
+- 🖱️ **Input devices**: Keyboard, mouse, microphone: things you use to _talk_ to the computer.
 - 🖥️ **Output devices**: Monitor, speakers, printer: the computer's way to talk back!
 
 ---v

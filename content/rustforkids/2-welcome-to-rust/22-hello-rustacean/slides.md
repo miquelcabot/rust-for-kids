@@ -43,7 +43,7 @@ fn main() {
 
 ```rust
 println!("Hello, Rustacean!");
-````
+```
 
 You can print anything inside the quotes!
 
@@ -51,7 +51,7 @@ Example:
 
 ```rust
 println!("My favorite number is {}", 42);
-````
+```
 
 The `{}` gets replaced with the value. It's like a mini magic placeholder!
 

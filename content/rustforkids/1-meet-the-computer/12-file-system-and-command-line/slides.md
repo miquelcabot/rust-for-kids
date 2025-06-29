@@ -72,7 +72,7 @@ or
 ## 📜 Paths and File Extensions
 
 - A **path** tells the computer **where** something is.
-Example: `/home/alex/projects/rust_for_kids/main.rs`
+  - Example: `/home/alex/projects/rust_for_kids/main.rs`
 
 - A **file extension** tells **what** kind of file it is:
 - `.txt` → text
@@ -94,20 +94,20 @@ Programmers love the terminal because it's **powerful and fast**.
 
 ## 🔤 Terminal Command Cheat Sheet
 
-| Command             | What it does                                     |
-|---------------------|--------------------------------------------------|
-| `pwd`               | Show where you are right now                     |
-| `ls`                | List everything in the current folder            |
-| `cd foldername`     | Enter a folder                                   |
-| `cd ..`             | Go up one level (to the parent folder)           |
-| `cd .`              | Stay where you are (the "current directory")     |
-| `mkdir my_folder`   | Make a new folder                                |
-| `touch hello.txt`   | Create a new empty file                          |
-| `cat hello.txt`     | Show what's inside the file                      |
-| `rm file.txt`       | Delete a file (⚠️ careful!)                      |
-| `mv file.txt newname.txt` | Rename a file                              |
-| `mv file.txt folder/`     | Move a file into a folder                  |
-| `clear`             | Clean the screen                                 |
+| Command                   | What it does                                 |
+|·-------------------------·|·--------------------------------------------·|
+| `pwd`                     | Show where you are right now                 |
+| `ls`                      | List everything in the current folder        |
+| `cd foldername`           | Enter a folder                               |
+| `cd ..`                   | Go up one level (to the parent folder)       |
+| `cd .`                    | Stay where you are (the "current directory") |
+| `mkdir my_folder`         | Make a new folder                            |
+| `touch hello.txt`         | Create a new empty file                      |
+| `cat hello.txt`           | Show what's inside the file                  |
+| `rm file.txt`             | Delete a file (⚠️ careful!)                  |
+| `mv file.txt newname.txt` | Rename a file                                |
+| `mv file.txt folder/`     | Move a file into a folder                    |
+| `clear`                   | Clean the screen                             |
 
 > Tip: You can press the **up arrow** ↑ to repeat your last command!
 ---
