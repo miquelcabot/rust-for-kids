@@ -23,6 +23,10 @@ These are the **physical parts** you can touch.
 - 🖱️ **Input devices**: Keyboard, mouse, microphone: things you use to *talk* to the computer.
 - 🖥️ **Output devices**: Monitor, speakers, printer: the computer's way to talk back!
 
+---v
+
+![Computer components](./img/hardware.png)
+
 ---
 
 ### 📜 Software
