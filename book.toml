@@ -15,8 +15,8 @@ edition = "2021"
 
 [output.html]
 site-url = "/book/" # needed for gh-pages, MUST match repo name on github!
-git-repository-url = "https://github.com/miquelcabot/rust4kids"
-edit-url-template = "https://github.com/miquelcabot/rust4kids/edit/main/{path}"
+git-repository-url = "https://github.com/miquelcabot/rustforkids"
+edit-url-template = "https://github.com/miquelcabot/rustforkids/edit/main/{path}"
 
 [output.html.search]
 limit-results = 20

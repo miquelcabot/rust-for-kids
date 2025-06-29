@@ -12,7 +12,7 @@ We suggest the [online](#hosted-online) version for general use, but cloning, in
 
 ### Hosted Online
 
-The latest version is hosted at: [https://cabot.dev/rust4kids](https://cabot.dev/rust4kids)
+The latest version is hosted at: [https://cabot.dev/rustforkids](https://cabot.dev/rustforkids)
 
 ### Build Offline
 
