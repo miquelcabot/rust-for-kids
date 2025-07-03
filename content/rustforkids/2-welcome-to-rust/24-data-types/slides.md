@@ -7,6 +7,7 @@
 A **data type** tells the computer what kind of value a variable holds.
 
 In Rust, every value has a type:
+
 - Numbers? 🧮
 - Text? 📝
 - Yes or no? ✅❌
@@ -20,12 +21,12 @@ Rust uses types to make sure your program is correct and safe.
 
 These types hold **just one value**.
 
-| Type   | Example                 | Description                  |
-|--------|-------------------------|------------------------------|
-| `i32`  | `let x = 10;`           | Integer                      |
-| `f64`  | `let pi = 3.14;`        | Decimal (floating point)     |
-| `bool` | `let is_ok = true;`     | True or false                |
-| `char` | `let letter = 'A';`     | A single character or symbol |
+| Type   | Example             | Description                  |
+| ------ | ------------------- | ---------------------------- |
+| `i32`  | `let x = 10;`       | Integer                      |
+| `f64`  | `let pi = 3.14;`    | Decimal (floating point)     |
+| `bool` | `let is_ok = true;` | True or false                |
+| `char` | `let letter = 'A';` | A single character or symbol |
 
 > Rust gives you many number types (`i8`, `u32`, `f32`, etc.), but `i32` and `f64` are the defaults.
 
