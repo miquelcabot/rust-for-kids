@@ -67,6 +67,23 @@ let points: u32 = 99;
 
 ---
 
+## 🌊 Floating Point Numbers
+
+- Sometimes we need decimals, like `3.14`, `99.99`, or `0.5`.
+- These are called **floating-point numbers**.
+
+```rust
+let price: f64 = 4.99;
+```
+
+- Rust gives you:
+  - `f32` → less precise, smaller
+  - `f64` → more precise, default
+
+> Use `f64` unless you have a special reason to save space.
+
+---
+
 ## 🗃️ Composite Types
 
 These hold **multiple values**.
