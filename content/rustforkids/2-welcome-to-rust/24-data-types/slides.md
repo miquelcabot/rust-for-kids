@@ -85,6 +85,43 @@ let price: f64 = 4.99;
 
 ---
 
+## ➕ Operations with Numbers
+
+Once you have numbers... you can do math! 🧮
+
+```rust
+let a = 10;
+let b = 3;
+
+let sum = a + b;        // 13
+let difference = a - b; // 7
+let product = a * b;    // 30
+let quotient = a / b;   // 3 (integer division!)
+let remainder = a % b;  // 1
+```
+
+---
+
+## ⚠️ Integer vs Float Division
+
+```rust
+let a = 10;
+let b = 3;
+
+let result = a / b; // = 3 (not 3.33!)
+```
+
+If you want **decimals**, use floats:
+
+```rust
+let x = 10.0;
+let y = 3.0;
+
+let result = x / y; // = 3.333...
+```
+
+---
+
 ## 🗃️ Composite Types
 
 These hold **multiple values**.
