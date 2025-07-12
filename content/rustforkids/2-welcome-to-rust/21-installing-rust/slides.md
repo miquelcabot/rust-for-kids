@@ -100,11 +100,60 @@ Hello, world!
 
 ---
 
+## 🧰 Extra Cargo Commands
+
+Rust gives you extra tools to help you while you code!
+
+---v
+
+### 🛠️ `cargo build`
+
+This command compiles your program:
+
+```bash
+cargo build
+```
+
+It creates an executable, but **doesn’t run it**.
+
+Great for checking that your program builds without running it.
+
+---v
+
+### ✅ `cargo check`
+
+Checks your code for errors — but **doesn’t build** the final program:
+
+```bash
+cargo check
+```
+
+⚡ It’s much faster than `cargo build`, and great while you’re writing!
+
+---v
+
+### 🧹 `cargo fmt`
+
+This command **automatically formats** your Rust code:
+
+```bash
+cargo fmt
+```
+
+It keeps your code **clean and readable**, following Rust style rules.
+
+> Like a digital toothbrush for your code! 🪥✨
+
+---
+
 ## ✅ Summary
 
 - Installed Rust with `rustup`
 - Verified `rustc` and `cargo` are working
 - Created a new project with `cargo new`
 - Ran your first Rust code with `cargo run`
+- Checked your code with `cargo check`
+- Built your program with `cargo build`
+- Formatted your code with `cargo fmt`
 
 Let's move on and learn what this code means! 🦀💡
